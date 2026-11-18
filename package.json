@@ -1,0 +1,13 @@
+{
+  "name": "release-day",
+  "version": "1.0.0",
+  "description": "Starter app of module 6 of the Docker 2026 course: a page and a visit counter in the /data volume",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=26"
+  },
+  "license": "MIT"
+}
